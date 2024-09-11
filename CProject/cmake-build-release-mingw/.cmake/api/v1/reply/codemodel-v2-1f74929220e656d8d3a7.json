@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_hello-Release-67446768704d04c05b06.json",
+					"name" : "01_hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_arrayExer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_arrayExer-Release-f6117c65af22a6d42fb0.json",
+					"name" : "04_arrayExer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_arryCopy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_arryCopy-Release-0c201816cb7fa0c632ce.json",
+					"name" : "05_arryCopy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_arry_rollback::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_arry_rollback-Release-51c2ef4569b8c538ce0c.json",
+					"name" : "06_arry_rollback",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_arry_char::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_arry_char-Release-a223d1ae93f3d80e2a0a.json",
+					"name" : "07_arry_char",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_arry_more::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_arry_more-Release-bfa1106ac65fd48f1d52.json",
+					"name" : "08_arry_more",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10_arrymoreExer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_arrymoreExer-Release-0e0f760d62753ec47703.json",
+					"name" : "10_arrymoreExer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_arrymoreExer2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_arrymoreExer2-Release-68a518b16d0de0ce7411.json",
+					"name" : "11_arrymoreExer2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_arryExer2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_arryExer2-Release-6ac4fb359c5b60662364.json",
+					"name" : "12_arryExer2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CProject-Release-a482b4ea4aad66384923.json",
+					"name" : "CProject",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/workspace_clion/CProject/cmake-build-release-mingw",
+		"source" : "D:/workspace_clion/CProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,12 @@
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/CProject.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/01_hello.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/04_arrayExer.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/05_arryCopy.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/06_arry_rollback.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/07_arry_char.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/08_arry_more.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/10_arrymoreExer.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/11_arrymoreExer2.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/12_arryExer2.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
+D:/workspace_clion/CProject/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir

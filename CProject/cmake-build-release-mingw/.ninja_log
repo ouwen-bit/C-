@@ -1,0 +1,22 @@
+# ninja log v6
+3	505	7450469930607888	CMakeFiles/CProject.dir/main.c.obj	9657b012c0e0788d
+3	232	7450471397474684	CMakeFiles/01_hello.dir/chapter_01/01_hello.c.obj	75d727d605aee69
+8	3082	7450740809761458	CMakeFiles/01_hello.dir/chapter_03/04_arrayExer.c.obj	7ec7348144af6597
+109	541	7450469931657244	CMakeFiles/CProject.dir/chapter_01/01_hello.c.obj	7654f2ce1b1ee88a
+7	383	7451551951519307	CMakeFiles/05_arryCopy.dir/chapter_03/05_arryCopy.c.obj	a7f189abce52749d
+6	281	7451662549749929	CMakeFiles/08_arry_more.dir/chapter_03/08_arry_more.c.obj	271655362df7a37c
+233	535	7450471399773263	01_hello.exe	57935323040a4c04
+11	347	7450753539856379	CMakeFiles/04_arrayExer.dir/chapter_03/04_arrayExer.c.obj	cb211377903651cb
+347	642	7450753543214310	04_arrayExer.exe	d90cfeff39eaa6f5
+384	688	7451551955282174	05_arryCopy.exe	597c66bc1f65fbc9
+15	313	7451580451268993	CMakeFiles/06_arry_rollback.dir/chapter_03/06_arry_rollback.c.obj	eb753f9471fe40ec
+314	608	7451580454247154	06_arry_rollback.exe	d84ffec602ed731
+7	284	7451649989491110	CMakeFiles/07_arry_char.dir/chapter_03/07_arry_char.c.obj	e2b909a4fc77c84c
+285	585	7451649992267574	07_arry_char.exe	b1bd75bb561ab5f7
+282	691	7451662552504151	08_arry_more.exe	a773ed6b24290acf
+6	255	7451728755694113	CMakeFiles/10_arrymoreExer.dir/chapter_03/10_arrymoreExer.c.obj	d79d24d16c6a3240
+256	541	7451728758198417	10_arrymoreExer.exe	7e203f20d502ca9
+7	271	7451737730810922	CMakeFiles/11_arrymoreExer2.dir/chapter_03/11_arrymoreExer2.c.obj	22fc4aea675dd0a0
+271	540	7451737733455409	11_arrymoreExer2.exe	67696b4cbf7c34dc
+8	300	7452427850164457	CMakeFiles/12_arryExer2.dir/chapter_03/12_arryExer2.c.obj	4da007876fecdb17
+301	576	7452427853098760	12_arryExer2.exe	dbeeae2e188011f8
